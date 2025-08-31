@@ -15,6 +15,7 @@ import Padmanabh.SeleniumFrameWorks.checkOutPage;
 import Padmanabh.SeleniumFrameWorks.orderPage;
 import SeleniumFrameWorks.TestComponents.BaseTests;
 
+//we have made changes
 public class errorValidation extends BaseTests {
 
 	@Test(groups = { "errorHandling" }, retryAnalyzer = SeleniumFrameWorks.TestComponents.Retry.class)
